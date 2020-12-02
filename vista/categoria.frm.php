@@ -1,6 +1,6 @@
 <?php include_once "header.frm.php" ?>
 
-  <title>CATEGORIAS HELADOS</title>
+  <title>CATEGORIAS HELADOS PRUEBA</title>
 </head>
 <body class="bg-light">
    <header class="row bg-light">
