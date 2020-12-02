@@ -1,6 +1,6 @@
 <?php include_once "header.frm.php" ?>
 
-  <title>CLIENTES</title>
+  <title>CLIENTES versiòn</title>
 </head>
 <body class="bg-light">
    <header class="row bg-light">
